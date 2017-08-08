@@ -1,0 +1,3 @@
+rootProject.name = 'React_SudiProject20170808'
+
+include ':app'
